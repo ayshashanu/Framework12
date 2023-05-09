@@ -1,0 +1,31 @@
+
+
+Collection is an API
+we have interfaces like,
+1) List
+      *ArrayList
+      *LinkedList
+
+      # used for only single value.
+      # do not remove duplicate values.
+      # Array list and linked list are same .but linked list give the better performance.
+
+2) Sets
+
+            # used for only single value.
+            # It remove duplicate values.
+
+      *Hashset-remove duplicate values output will be not in insertion oeder.
+      *Linkedset--remove duplicate values output will be in insertion order.
+      *Treeset--remove duplicate values output will be in Alphabetical order.
+
+ 3)Map
+
+         # used for paired(key and value)
+         #It overrides the same key
+
+             *Hashmap- output will be not in insertion oeder.
+             *Linkedmap--output will be in insertion order.
+             *Treemap-- output will be in Alphabetical order.
+
+
